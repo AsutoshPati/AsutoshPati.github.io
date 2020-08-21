@@ -20,6 +20,24 @@
             .strip{
                 background-color: yellow;
             }
+            
+            .field{
+                font-size: 20px;
+                text-align-last: center;
+                border: none;
+                border-bottom: 5px solid #8103ff;
+                width: 70%;
+            }
+
+            #show{
+                padding: 20px;
+                width: 40%;
+                background-color: #8103ff;
+                color: white;
+                font-weight: bold;
+                border: none;
+                border-radius: 10px;
+            }
 
             .footer{
                 background-color: black;
@@ -33,6 +51,14 @@
                 }
                 #logoImg{
                     text-align: center;
+                }
+
+                .field{
+                    width: 90%;
+                }
+
+                #show{
+                    width: 90%;
                 }
             }
         </style>
@@ -114,8 +140,10 @@
             </div>
 
             <div class="col-sm-12" style="text-align: center;">
-                <label>Latest Qualification</label><br><br>
-                <select id="qualification">
+                <br><br>
+                <h5><label for="qualification">Latest Qualification</label></h5>
+                <select class="field" id="qualification">
+                    <option value="">Select Qualification</option>
                     <option value="X">10th / Matriculation</option>
                     <option value="XII">12th / Intermediate</option>
                     <option value="I">ITI</option>
@@ -127,6 +155,29 @@
                     <option value="PGT">Post Graduation (Techinal)</option>
                     <option value="PGNT">Post Graduation (Non - Techinal)</option>
                 </select>
+            </div>
+
+            <div class="col-sm-12" style="text-align: center; padding-top: 30px;">
+                <br><br>
+                <h5><label for="term">Course Duration</label></h5>
+                <select class="field" id="term">
+                    <option value="">Select Duration</option>
+                    <option value="S">Short Term</option>
+                    <option value="M">Medium Term</option>
+                    <option value="L">Long Term</option>
+                </select>
+            </div>
+
+            <div class="col-sm-12" style="text-align: center; padding-top: 30px;">
+                <form>
+                    <br><br>
+                    <h5><label for="courses">Courses</label></h5>
+                    <select class="field" id="courses">
+                    </select>
+                    <br><br><br>
+                    <input type="submit" id="show" value="Show Information" />
+                    <br><br><br>
+                </form>
             </div>
         </div>
 
