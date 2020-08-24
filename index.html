@@ -22,6 +22,7 @@
             }
             
             .field{
+                background-color: white;
                 font-size: 20px;
                 text-align-last: center;
                 border: none;
@@ -142,7 +143,7 @@
             <div class="col-sm-12" style="text-align: center;">
                 <br><br>
                 <h5><label for="qualification">Latest Qualification</label></h5>
-                <select class="field" id="qualification">
+                <select class="field" id="qualification" onchange="byQualification()">
                     <option value="">Select Qualification</option>
                     <option value="X">10th / Matriculation</option>
                     <option value="XII">12th / Intermediate</option>
@@ -173,6 +174,9 @@
                     <br><br>
                     <h5><label for="courses">Courses</label></h5>
                     <select class="field" id="courses">
+                        <script>
+
+                        </script>
                     </select>
                     <br><br><br>
                     <input type="submit" id="show" value="Show Information" />
