@@ -172,68 +172,66 @@
             </div>
 
             <div class="col-sm-12" style="text-align: center; padding-top: 30px;">
-                <form>
-                    <br><br>
-                    <h5><label for="courses">Courses</label></h5>
-                    <select class="field" id="courses" name="course_name" required>
-                        <script>
-                            var info = getInformation();
-                            function filterCourses(){
-                                var select = document.getElementById("courses");
-                                var qualification = document.getElementById("qualification");
-                                var duration = document.getElementById("term");
-                                if (qualification.value == "" && duration.value == ""){
-                                    alert("Please select Highest Qualification \nand Duration \nto filter courses")
-                                    return ;
-                                }
+                <br><br>
+                <h5><label for="courses">Courses</label></h5>
+                <select class="field" id="courses" name="course_name" required>
+                    <script>
+                        var info = getInformation();
+                        function filterCourses(){
+                            var select = document.getElementById("courses");
+                            var qualification = document.getElementById("qualification");
+                            var duration = document.getElementById("term");
+                            if (qualification.value == "" && duration.value == ""){
+                                alert("Please select Highest Qualification \nand Duration \nto filter courses")
+                                return ;
+                            }
 
-                                var length = select.options.length;
-                                for (var i = 0; i < length; i++) {
-                                    select.remove(0);
-                                }
+                            var length = select.options.length;
+                            for (var i = 0; i < length; i++) {
+                                select.remove(0);
+                            }
 
-                                if (qualification.value != "" && duration.value != ""){
-                                    for(var i=0; i < info.length; i++){
-                                        if (info[i]['Qualification'] == qualification.value
-                                        && info[i]['Duration Type'] == duration.value){
-                                            var option = document.createElement("option");
-                                            option.text = info[i]['Name'];
-                                            option.value = info[i]['Short'];
-                                            select.add(option, select[i]);
-                                        }
+                            if (qualification.value != "" && duration.value != ""){
+                                for(var i=0; i < info.length; i++){
+                                    if (info[i]['Qualification'] == qualification.value
+                                    && info[i]['Duration Type'] == duration.value){
+                                        var option = document.createElement("option");
+                                        option.text = info[i]['Name'];
+                                        option.value = info[i]['Short'];
+                                        select.add(option, select[i]);
                                     }
-                                }
-
-                                else if (qualification.value != ""){
-                                    for(var i=0; i < info.length; i++){
-                                        if (info[i]['Qualification'] == qualification.value){
-                                            var option = document.createElement("option");
-                                            option.text = info[i]['Name'];
-                                            option.value = info[i]['Short'];
-                                            select.add(option, select[i]);
-                                        }
-                                    }
-                                }
-
-                                else if (duration.value != ""){
-                                    for(var i=0; i < info.length; i++){
-                                        if (info[i]['Duration Type'] == duration.value){
-                                            var option = document.createElement("option");
-                                            option.text = info[i]['Name'];
-                                            option.value = info[i]['Short'];
-                                            select.add(option, select[i]);
-                                        }
-                                    }
-                                }
-                                
-                                var length = select.options.length;
-                                if (length == 0){
-                                    alert("No courses found for this filter \nTry some other filters")
                                 }
                             }
-                        </script>
-                    </select>
-                </form>
+
+                            else if (qualification.value != ""){
+                                for(var i=0; i < info.length; i++){
+                                    if (info[i]['Qualification'] == qualification.value){
+                                        var option = document.createElement("option");
+                                        option.text = info[i]['Name'];
+                                        option.value = info[i]['Short'];
+                                        select.add(option, select[i]);
+                                    }
+                                }
+                            }
+
+                            else if (duration.value != ""){
+                                for(var i=0; i < info.length; i++){
+                                    if (info[i]['Duration Type'] == duration.value){
+                                        var option = document.createElement("option");
+                                        option.text = info[i]['Name'];
+                                        option.value = info[i]['Short'];
+                                        select.add(option, select[i]);
+                                    }
+                                }
+                            }
+                            
+                            var length = select.options.length;
+                            if (length == 0){
+                                alert("No courses found for this filter \nTry some other filters")
+                            }
+                        }
+                    </script>
+                </select>
                 <br><br><br>
                 <button id="show" onclick="openInfo()">Show Information</button>
                     <script>
