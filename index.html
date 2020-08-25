@@ -238,8 +238,11 @@
                         function openInfo(){
                             var select = document.getElementById("courses");
                             if (select.value != ""){
-                                document.cookie = String("cid="+select.value);
-                                //alert(document.cookie);
+                                var now = new Date();
+                                now.setTime(now.getTime() + 1 * 3600 * 1000);
+                                document.cookie = String("cid="+select.value+";");
+                                document.cookie = "expires=" + now.toUTCString() + ";";
+                                alert(document.cookie);
                                 location.href = "info.html";
                             }
                             else{
