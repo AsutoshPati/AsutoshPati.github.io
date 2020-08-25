@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+    <head>
+        <title>CTTC | Course Info</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="images/330px-Logocttcbhubaneswar.jpg" sizes="32x32">
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+        <script src="bootstrap/js/jquery.min.js"></script>
+        <script src="bootstrap/js/popper.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/courses.js"></script>
+
+        <style>
+            body{
+                font-size: 20px;
+            }
+
+            .strip{
+                background-color: yellow;
+            }
+
+            #course_name{
+                padding-top: 7vw;
+            }
+            
+            .apply-btn-container{
+                text-align: right;
+                padding-top: 20px;
+            }
+
+            .apply-btn{
+                border-radius: 20px;
+                border: 5px solid #8103ff;
+                color: #8103ff;
+                text-decoration: none;
+                font-weight: bold;
+                padding: 20px 5vw;
+            }
+
+            .apply-btn:hover{
+                background-color: #8103ff;
+                color: white;
+                text-decoration: none;
+            }
+
+            .enroll-btn{
+
+            }
+
+            .footer{
+                background-color: black;
+                color: white;
+                height: 100px;
+            }
+
+            @media only screen and (max-width: 600px) {
+                .apply-btn-container{
+                    text-align: center;
+                    margin-top: 20px;
+                    padding-bottom: 20px;
+                }
+
+                #course_name{
+                    padding-top: 20px;
+                }
+
+                .apply-btn{
+                    padding: 20px 20%;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid strip" style="height: 50px; margin-top: 0;"></div>
+
+        <div class="container-fluid" style="padding-top: 50px; padding-bottom: 30px;">
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-4">
+                    <img id="course_img" src="images/index_pic_1.jpg" style="width: 90%; padding: 20px;" />
+                </div>
+                <div class="col-sm-6">
+                    <h1 id="course_name">Course Name</h1>
+                </div>
+                <div class="col-sm-1"></div>
+            </div>
+            <div class="row" style="padding-top: 30px;">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-5 container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <b class="major-info">Course Duration</b> : 
+                            <span class="major-info"></span>
+                        </div>
+                        <div class="col-sm-12">
+                            <b class="major-info">Course Fee</b> : 
+                            <span class="major-info"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-5 apply-btn-container">
+                    <a id="link_to_apply" href="#" class="apply-btn">Apply Now</a>
+                </div>
+                <div class="col-sm-1"></div>
+            </div>
+        </div>
+
+        <div class="container-fluid strip" style="height: 50px; margin-top: 0;"></div>
+
+        <div class="container" style="padding-top: 50px; padding-bottom: 30px;">
+            <div class="row">
+                <div class="col-sm-12">
+                    <b class="major-info">Qualification</b> : 
+                    <span class="major-info"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <b class="major-info">Selection Criteria</b> : 
+                    <span class="major-info"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <b class="major-info">Objective / Description</b> : 
+                    <span class="major-info"></span>
+                </div>
+            </div>
+        </div>
+        <script>
+            var ck = document.cookie;
+            var data = ck.split("=");
+            alert(ck);
+        </script>
+    </body>
+</html>
