@@ -216,6 +216,9 @@
             document.getElementById("term").innerHTML = duration;
             document.getElementById("fee").innerHTML = fee;
             document.getElementById("link_to_apply").href = apply;
+            if (apply == ""){
+                document.getElementById("link_to_apply").innerHTML = "Can't Apply";
+            }
             document.getElementById("qual").innerHTML = qulaify;
             document.getElementById("select").innerHTML = selection;
             document.getElementById("description").innerHTML = desc;

@@ -20,7 +20,7 @@ function getInformation(){
             TOOL/Mould/Die/FixtureDesigning&Manufacturing.
             N.B. : Course contains 70% Practical & 30%
             Theory.`,
-            "Apply": "#"
+            "Apply": ""
         },
 
         {
@@ -40,7 +40,7 @@ function getInformation(){
             Electronics
             N.B. : Course contains 70% Practical & 30%
             Theory.`,
-            "Apply": "#"
+            "Apply": ""
         },
 
         {
@@ -54,7 +54,7 @@ function getInformation(){
             "Image": "images/test.jpg",
             "Description": `<b>Course Content</b> - As per NCVT Syllabus<br><br>
             <b>Course location </b>- CTTC, Bhubaneswar`,
-            "Apply": "#"
+            "Apply": ""
         },
 
         {
@@ -68,7 +68,7 @@ function getInformation(){
             "Image": "images/test.jpg",
             "Description": `<b>Course Content</b> - As per NCVT Syllabus<br><br>
             <b>Course location </b>- CTTC, Kalinga nagar, Jajpur`,
-            "Apply": "#"
+            "Apply": ""
         },
 
         {
@@ -82,7 +82,7 @@ function getInformation(){
             "Image": "images/test.jpg",
             "Description": `<b>Course Content</b> - As per NCVT Syllabus<br><br>
             <b>Course location</b> - CTTC, Kalinga nagar, Jajpur`,
-            "Apply": "#"
+            "Apply": ""
         },
 
         {
@@ -446,7 +446,7 @@ function getInformation(){
         {
             "Name": "POST GRADUATE IN AEROSPACE MANUFACTURING (PGAM)", 
             "Fee": "₹ 60,000", 
-            "Duration": "1 year 1 Year (3 Months in Training Dept. & 9 Months in Production Dept.)",
+            "Duration": "1 Year (3 Months in Training Dept. & 9 Months in Production Dept.)",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
             "Qualification": "PGT", 
@@ -468,6 +468,33 @@ function getInformation(){
             9100, Quality Control & Inspection, HYPER MILL,
             Selection of Cutting Tools, Strength of Material,
             Process Plan, Theory of Sheet Metal
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=91"
+        },
+
+        {
+            "Name": "MASTER CERTIFICATE COURSE IN CAD/CAM (MCC)", 
+            "Fee": "₹ 36,000", 
+            "Duration": "6 month (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "PGT", 
+            "Short": "MCC",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - CAD CAM Engineer<br><br>
+            After completion of the course, the trainees will be able
+            to work in design department and to carry out designing
+            using various CAD software, can develop CAM
+            programme using CAM software & analysis of different
+            component using CAE software<br><br>
+            <b>Course content</b> - Computer Aided Design (CAD-Auto CAD and Solid
+            works), Computer Aided Design & Computer Aided
+            manufacturing (Unigraphics CAD & Unigraphics CAM),
+            Computer Aided Engineering (ANSYS), Advance
+            Computer Aided Design(CREO Parametric and CATIA),
+            CNC Programming And CNC Machining, Related Theory Subjects (Engineering Drawing, Engineering Metrology,
+            Strength of Material, Engineering Material, Production Technology), Entrepreneurship, Project Work
             `,
             "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=91"
         },
