@@ -11,6 +11,59 @@
         <script src="bootstrap/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/courses.js"></script>
 
+        <script>
+            var ck = document.cookie;
+            var data = ck.split("=")[1];
+            var info = getInformation();
+            var ctr = 0;
+            for(var i=0; i < info.length; i++){
+                if (info[i]['Short'] == data){
+                    course_name = info[i]['Name']
+                    fee = info[i]['Fee']
+                    duration = info[i]['Duration']
+                    selection = info[i]['Selection']
+                    img_src = info[i]['Image']
+                    desc = info[i]['Description']
+                    apply = info[i]['Apply']
+                    qulaify =  info[i]['X']
+                    if (qulaify == "X"){
+                        qulaify = "10th / Matriculation";
+                    }
+                    else if (qulaify == "XII"){
+                        qulaify = "12th / Intermediate";
+                    }
+                    else if (qulaify == "I"){
+                        qulaify = "ITI";
+                    }
+                    else if (qulaify == "PI"){
+                        qulaify = "Post ITI";
+                    }
+                    else if (qulaify == "D"){
+                        qulaify = "Diploma";
+                    }
+                    else if (qulaify == "PD"){
+                        qulaify = "Post Diploma";
+                    }
+                    else if (qulaify == "GT"){
+                        qulaify = "Graduation (Techinal)";
+                    }
+                    else if (qulaify == "GNT"){
+                        qulaify = "Graduation (Non - Techinal)";
+                    }
+                    else if (qulaify == "PGT"){
+                        qulaify = "Post Graduation (Techinal)";
+                    }
+                    else if (qulaify == "PGNT"){
+                        qulaify = "Post Graduation (Non - Techinal)";
+                    }
+                }
+            }
+            if (ctr == 0){
+                alert("No information found for this course\nKindly contact at reception")
+                location.href = "index.html"
+            }
+        </script>
+
         <style>
             body{
                 font-size: 20px;
@@ -91,11 +144,11 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <b class="major-info">Course Duration</b> : 
-                            <span class="major-info"></span>
+                            <span id="term"></span>
                         </div>
                         <div class="col-sm-12">
                             <b class="major-info">Course Fee</b> : 
-                            <span class="major-info"></span>
+                            <span id="fee"></span>
                         </div>
                     </div>
                 </div>
@@ -112,26 +165,31 @@
             <div class="row">
                 <div class="col-sm-12">
                     <b class="major-info">Qualification</b> : 
-                    <span class="major-info"></span>
+                    <span id="qual"></span>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-12">
                     <b class="major-info">Selection Criteria</b> : 
-                    <span class="major-info"></span>
+                    <span id="select"></span>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-12">
                     <b class="major-info">Objective / Description</b> : 
-                    <span class="major-info"></span>
+                    <span id="description"></span>
                 </div>
             </div>
         </div>
         <script>
-            var ck = document.cookie;
-            var data = ck.split("=")[1];
-            alert(data);
+            document.getElementById("course_name").innerHTML = course_name;
+            document.getElementById("term").innerHTML = duration;
+            document.getElementById("fee").innerHTML = fee;
+            document.getElementById("link_to_apply").href = apply;
+            document.getElementById("qual").innerHTML = qulaify;
+            document.getElementById("select").innerHTML = selection;
+            document.getElementById("description").innerHTML = desc;
+            document.getElementById("course_img").src = img_src;
         </script>
     </body>
 </html>

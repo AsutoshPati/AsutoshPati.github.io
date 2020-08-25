@@ -19,7 +19,8 @@ function getInformation(){
             Equivalent to Diploma in Mechanical Engg. With
             TOOL/Mould/Die/FixtureDesigning&Manufacturing.
             N.B. : Course contains 70% Practical & 30%
-            Theory.`
+            Theory.`,
+            "Apply": "#"
         },
 
         {
@@ -38,7 +39,8 @@ function getInformation(){
             Combined subjects of Mechanical, Electrical &
             Electronics
             N.B. : Course contains 70% Practical & 30%
-            Theory.`
+            Theory.`,
+            "Apply": "#"
         },
 
         {
@@ -51,7 +53,8 @@ function getInformation(){
             "Short": "ITIM", 
             "Image": "images/test.jpg",
             "Description": `As per NCVT Syllabus<br><br>
-            Course location - CTTC, Bhubaneswar`
+            Course location - CTTC, Bhubaneswar`,
+            "Apply": "#"
         },
 
         {
@@ -64,7 +67,8 @@ function getInformation(){
             "Short": "ITIF", 
             "Image": "images/test.jpg",
             "Description": `As per NCVT Syllabus<br><br>
-            Course location - CTTC, Kalinga nagar, Jajpur`
+            Course location - CTTC, Kalinga nagar, Jajpur`,
+            "Apply": "#"
         },
 
         {
@@ -77,7 +81,8 @@ function getInformation(){
             "Short": "ITIE",
             "Image": "images/test.jpg",
             "Description": `As per NCVT Syllabus<br><br>
-            Course location - CTTC, Kalinga nagar, Jajpur`
+            Course location - CTTC, Kalinga nagar, Jajpur`,
+            "Apply": "#"
         },
 
         {
@@ -102,7 +107,8 @@ function getInformation(){
             Modern Manufacturing Technology, Jigs and Fixture,
             Mold Theory, Communicative English, Industrial
             Management, In plant Training & Project Work.
-            `
+            `,
+            "Apply": "#"
         },
 
         {
@@ -127,7 +133,8 @@ function getInformation(){
             Modern Manufacturing Technology, Jigs and Fixture,
             Mold Theory, Communicative English, Industrial
             Management, In plant Training & Project Work.
-            `
+            `,
+            "Apply": "#"
         },
 
     ];
