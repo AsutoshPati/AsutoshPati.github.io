@@ -18,14 +18,14 @@
             var ctr = 0;
             for(var i=0; i < info.length; i++){
                 if (info[i]['Short'] == data){
-                    course_name = info[i]['Name']
-                    fee = info[i]['Fee']
-                    duration = info[i]['Duration']
-                    selection = info[i]['Selection']
-                    img_src = info[i]['Image']
-                    desc = info[i]['Description']
-                    apply = info[i]['Apply']
-                    qulaify =  info[i]['X']
+                    course_name = info[i]['Name'];
+                    fee = info[i]['Fee'];
+                    duration = info[i]['Duration'];
+                    selection = info[i]['Selection'];
+                    img_src = info[i]['Image'];
+                    desc = info[i]['Description'];
+                    apply = info[i]['Apply'];
+                    qulaify =  info[i]['X'];
                     if (qulaify == "X"){
                         qulaify = "10th / Matriculation";
                     }
@@ -56,11 +56,12 @@
                     else if (qulaify == "PGNT"){
                         qulaify = "Post Graduation (Non - Techinal)";
                     }
+                    ctr++;
                 }
             }
             if (ctr == 0){
-                alert("No information found for this course\nKindly contact at reception")
-                location.href = "index.html"
+                alert("No information found for this course\nKindly contact at reception");
+                location.href = "index.html";
             }
         </script>
 
