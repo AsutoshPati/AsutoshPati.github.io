@@ -26,7 +26,7 @@
                     img_src = info[i]['Image'];
                     desc = info[i]['Description'];
                     apply = info[i]['Apply'];
-                    qulaify =  info[i]['X'];
+                    qulaify =  info[i]['Qualification'];
                     if (qulaify == "X"){
                         qulaify = "10th / Matriculation";
                     }
@@ -100,7 +100,16 @@
             }
 
             .enroll-btn{
+                background-color: yellow;
+                color: red;
+                text-decoration: none;
+                font-weight: bold;
+                padding: 20px 60%;
+            }
 
+            .enroll-btn:hover{
+                color: red;
+                text-decoration: none;
             }
 
             .footer{
@@ -122,6 +131,10 @@
 
                 .apply-btn{
                     padding: 20px 20%;
+                }
+
+                .enroll-btn{
+                    padding: 20px 60%; 
                 }
             }
         </style>
@@ -148,6 +161,8 @@
                             <b class="major-info">Course Duration</b> : 
                             <span id="term"></span>
                         </div>
+                    </div>
+                    <div class="row" style="padding-top: 20px;">
                         <div class="col-sm-12">
                             <b class="major-info">Course Fee</b> : 
                             <span id="fee"></span>
@@ -170,16 +185,21 @@
                     <span id="qual"></span>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="padding-top: 20px;">
                 <div class="col-sm-12">
                     <b class="major-info">Selection Criteria</b> : 
                     <span id="select"></span>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="padding-top: 20px;">
                 <div class="col-sm-12">
                     <b class="major-info">Objective / Description</b> : 
                     <span id="description"></span>
+                </div>
+            </div>
+            <div class="row" style="padding-top: 20px;">
+                <div class="col-sm-12">
+                    <a id="link_to_apply" href="#" class="enroll-btn">Enroll Here</a>
                 </div>
             </div>
         </div>
