@@ -496,7 +496,229 @@ function getInformation(){
             CNC Programming And CNC Machining, Related Theory Subjects (Engineering Drawing, Engineering Metrology,
             Strength of Material, Engineering Material, Production Technology), Entrepreneurship, Project Work
             `,
-            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=91"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=106"
+        },
+
+        {
+            "Name": "ADVANCED DIPLOMA IN MACHINE MAINTENANCE & AUTOMATION (ADMMA)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 month (6hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "PD", 
+            "Short": "ADMMA",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Entrepreneur/Maintenance&Automation Engineer<br><br>
+            After completion of the course, the trainees should
+            be able to perform maintenance activities of
+            workshop machinaries.<br><br>
+            <b>Course content</b> - Machine Operation, Electrical Hardware Logic Control,
+            Electrical Machines, Pneumatics & Hydraulics,
+            Machine Maintenance, Programmable Logic
+            Controller,SCADA&HMI,TIA-Portal,Communication
+            Skill,AutoCADElectrical,BasicElectronics
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=8"
+        },
+
+        {
+            "Name": "ADVANCED EMBEDDED TECHNOLOGY (AET)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 month (6hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "PD", 
+            "Short": "AET",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Junior Embedded Engineer / PCB Designer<br><br>
+            After completion of the course, the trainees should
+            be able to work on embedded hardware and
+            software also design printed circuit board.<br><br>
+            <b>Course content</b> - PIC Microcontroller, Embedded C/C++,
+            Communication protocol & Implementation,
+            Robotics- Interfacing with Motors and Sensors,
+            ARM-Advanced RISC Machine(LPC2148),
+            Concept of RTOS, VLSI Design with FPGA/CPLD,
+            PCB Designing, Python Programming on Raspberry Pi, Project Work
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=111"
+        },
+
+        {
+            "Name": "CERTIFICATE COURSE IN ELECTRICAL EQUIPMENTS, REPAIRING & MAINTENANCE (CCERM)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 month (6hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "PD", 
+            "Short": "CCERM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Technical Assistant and Maintenance Engineer<br><br>
+            After completion of the course, the Trainees will
+            be able to work with electrical wiring high voltage
+            moter and work on estimation & costing.<br><br>
+            <b>Course content</b> - Basic safety regarding use of electricity,
+            Fundamentals on hand tools, Basic electrical and
+            electronics, Domestic and industrial wiring,
+            Repairing of home appliances, Repairing of
+            washing machine, Repairing of air conditioner
+            and refrigerator, Repairing of water purifier and
+            geyser, Repairing, winding and maintenance of
+            motor and pump, Soft Skill
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=100"
+        },
+
+        {
+            "Name": "POST DIPLOMA IN INDUSTRIAL AUTOMATION & ROBOTICS (PDIAR)", 
+            "Fee": "₹ 60,000", 
+            "Duration": "1 year (6hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "L", 
+            "Qualification": "PD", 
+            "Short": "PDIAR",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Automation Supervisor & Robotic Engineer<br><br>
+            After completion of the course, the trainees
+            should be able to fit to work in Electrical
+            Engineering & Electronics Engineering
+            automation field as well as can be able to work in
+            industrial robots.<br><br>
+            <b>Course content</b> - To have broad knowledge of Automation
+            Techniques, Robotics and Automation systems,
+            Drives, Hydraulics & Pneumatics. To apply
+            Automation and Robotics principles for solutions
+            to the specific problems. To use software for
+            generating solutions in PLC, Hydraulics &
+            Pneumatics. To work as individual & member of
+            inter discipline team in the management
+            supervision. To communicate effectively. To use
+            mathematical skills for solving specific problems.
+            To work on project & have good data collecting,
+            organizing ability. To observe & follow safety.
+            Develop entrepreneurship skills. Generate and
+            update customizable reports and data in
+            presentable form, interpret drawings, draw
+            interferences and workout other technical details.
+            Explain energy flow in electrical, pneumatic and
+            hydraulic sub-systems.
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "MASTER CERTIFICATE COURSE IN AUTOMATION & PROCESS CONTROL (MCCAPC)", 
+            "Fee": "₹ 36,000", 
+            "Duration": "6 months (6hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "PGT", 
+            "Short": "MCCAPC",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 7<br><br>
+            <b>Job Role</b> - Entrepreneur / Process Control / Automation
+            Engineer<br><br>
+            After completion of the course, the trainees
+            should be able to work in power plant, packaging
+            industries, FMCG area as well as can work in
+            process automation area.<br><br>
+            <b>Course content</b> - Electrical Hardware Logic Control, Electrical
+            Machines, Sensor and transducer, Pneumatics &
+            Hydraulics system, Programmable Logic
+            Controller, Embedded System, Machine
+            Maintenance, SCADA & HMI, TIA- Portal,
+            Distributed control system by PCS-7, Lab view,
+            Robotics, AUTOCAD Electrical, Communication
+            Skill
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=99"
+        },
+
+        {
+            "Name": "MASTER CERTIFICATE COURSE IN MECHATRONICS (MCCM)", 
+            "Fee": "₹ ", 
+            "Duration": "6 months",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "PGT", 
+            "Short": "MCCM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 7<br><br>
+            <b>Job Role</b> - <br><br>
+            After completion of the course, the Trainees will
+            be able to work in are if mechatronics, robotics
+            and automation.<br><br>
+            <b>Course content</b> - 
+            <ul>
+                <li>PLC</li>
+                <li>Hydraulics & Pneumatics</li>
+                <li>Mechatronics Principles</li>
+                <li>Automation Techniques</li>
+                <li>Mechatronics Systems</li>
+                <li>Drives & Sensors</li>
+                <li>Data actuation system (lab view)</li>
+                <li>VLSI</li>
+                <li>Basic Electronics</li>
+                <li>Electrical Machine lab</li>
+                <li>SCADA</li>
+                <li>ECAD</li>
+                <li>IOT</li>
+                <li>Soft Skill</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "POST GRADUATE DIPLOMA IN MECHATRONICS (PDIM)", 
+            "Fee": "₹ 54,000", 
+            "Duration": "1 year",
+            "Selection": "First come first serve basis",
+            "Duration Type": "L", 
+            "Qualification": "PGT", 
+            "Short": "PDIM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Machatronics Engineer / Team Leader<br><br>
+            After completion of the course, the Trainees will be able to work in are of mechatronics.<br><br>
+            <b>Course content</b> - 
+            <ul>
+                <li>Describe the techniques that are of used to design a mechatronics process</li>
+                <li>Analyze different quality control Parameters and conduct audits for different 
+                quality standards</li>
+                <li>Analysis of the electrical circuits, magnetic circuits, circuit elements, 
+                equipment's and accessories, type of sensors, and derives</li>
+                <li>Design and manage instrument and sensor networks and associated synchronization problems</li>
+                <li>List the technical specifications of high-sensitivity and high frequency measurement 
+                equipment, Power devices for engineering tasks</li>
+                <li>Generate and update customizable reports
+                and data in presentable form, interpret
+                drawings, draw interferences and workout
+                other technical details</li>
+                <li>Design circuits with different elements to
+                meet the functionality requirement of
+                products</li>
+                <li>Identify, formulate, and develop solution for
+                maintenance problems</li>
+                <li>Prepare conceptual design & test against
+                standards & parameters</li>
+                <li>Development of modern integrated environments for microcontroller programming and their features
+                for simulation, testing and debugging</li>
+                <li>Develop the creative solutions using different programming techniques for mechatronics applications,
+                including Input Output interface and communication peripherals</li>
+                <li>Explain energy flow in electrical, pneumatic and hydraulic sub-systems</li>
+                <li>Develop Programmes to actuate a physical system</li>
+                <li>Work effectively with others</li>
+                <li>Use basic Health and safety practices at work place</li>
+                <li>Develop entrepreneurship skills</li>
+                <li>Demonstrate the intellectual independence by completing the project work in Mechatronics.</li>
+            </ul>
+            `,
+            "Apply": "#"
         },
 
     ];
