@@ -137,6 +137,131 @@ function getInformation(){
             "Apply": "#"
         },
 
+        {
+            "Name": "CERTIFICATE COURSE IN MACHINE OPERATION (CCMO)", 
+            "Fee": "₹ 18,000", 
+            "Duration": "1 year",
+            "Selection": "First come first serve basis",
+            "Duration Type": "L", 
+            "Qualification": "UM", 
+            "Short": "CCMO",
+            "Image": "images/test.jpg",
+            "Description": `NSQF Level - 3<br><br>
+            Job Role - Technician / Machine Tool Operator<br><br>
+            After completion of the course, the Trainees will
+            be able to do machining operation in all
+            conventional machines as well as can
+            manufacture components.<br><br>
+            <b>Course content</b> : Conventional Machine Practice, Machine Shop -
+            Theory, Engineering Metrology, Engineering
+            Drawing, Workshop Calculation and Science,
+            Employability Skills
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "CERTIFICATE COURSE IN ADVANCED MACHINING (CCAM) - For ITI Fitter", 
+            "Fee": "₹ 32,000", 
+            "Duration": "1 year",
+            "Selection": "Selection will be based on merit list prepared to 40% mark of HSC + 60% of ITI mark",
+            "Duration Type": "L", 
+            "Qualification": "PITI", 
+            "Short": "CCAM",
+            "Image": "images/test.jpg",
+            "Description": `NSQF Level - 5<br><br>
+            Job Role - Skilled Conventional and CNC Machine Operator<br><br>
+            After completion of the course, the Trainees will be able to
+            impart newskill in AdvanceMachining&able to dowork in
+            Fitting&AssemblyArea.<br><br>
+            <b>Semester-1 </b>: Production Technology, AutoCAD,
+            Engineering drawing, Metrology, Communication Skill<br>
+            <b>Semester-2 </b>: Advance Conventional Machining, CNC
+            Lathe, CNC Milling, Non-Conventional Machining,
+            Engineering Drawing, Material Technology,
+            Entrepreneurship, In-plant Training
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN MACHINE MAINTENANCE (ACCMM) – For ITI Fitter/Electrician", 
+            "Fee": "₹ 32,000", 
+            "Duration": "1 year",
+            "Selection": "Selection will be based on merit list prepared to 40% mark of HSC + 60% of ITI mark",
+            "Duration Type": "L", 
+            "Qualification": "PITI", 
+            "Short": "ACCMM",
+            "Image": "images/test.jpg",
+            "Description": `NSQF Level - 5<br><br>
+            Job Role - Maintenance Technician<br><br>
+            After completion of the course, the Trainees will be able to
+            do maintenance of conventional machines & CNC Turning
+            &Milling.Traineeswillalsobetrainedoncomputers.<br><br>
+            <b>Semester-1 </b>: Conventional milling, Conventional
+            turning, Fitting & bench work, Use of safety practice in
+            industry, Work efficiently at workplace, Computer
+            fundamentals & AutoCAD, Basic Electricals &
+            Transmission control, Preventive & Breakdown
+            Maintenance of Conventional Machine tools like Lathe,
+            Milling, Grinding, Drilling, etc.
+            <b>Semester-2 </b>: Programmable Logic Controller( PLC),
+            Air Compressor, Pumps, DG Set, Uninterrupted Power
+            Supply, CNC Machines
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN CNC MACHINING (ACCCM) – For ITI Machinist & Fitter", 
+            "Fee": "₹ 34,000", 
+            "Duration": "1 year",
+            "Selection": "Selection will be based on merit list prepared to 40% mark of HSC + 60% of ITI mark",
+            "Duration Type": "L", 
+            "Qualification": "PITI", 
+            "Short": "ACCCM",
+            "Image": "images/test.jpg",
+            "Description": `NSQF Level - 5<br><br>
+            Job Role - CNC Operator<br><br>
+            After completion of the course, the trainees will be able
+            to handle all tool room machine (Conventional & CNC
+            Machines) manufacture any type of job according to the
+            demand, independently in CNC machining area.<br><br>
+            CNC Programming & CNC Machining, Engineering
+            Metrology and Quality Assurance-THEORY &
+            PRACTICAL, Production Planning & Controls,
+            Computer Aided Manufacturing (Master Cam),
+            Advance Cam (DEL CAM – 3 Axis And 5 Axis), Total
+            quality management, Fundamentals of Metal Cutting
+            Tool, Entrepreneurship, Project Work
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "Advanced Certificate Course in Welding Technology (ACCWT)", 
+            "Fee": "₹ 50,000", 
+            "Duration": "1 year",
+            "Selection": "First come first serve basis",
+            "Duration Type": "L", 
+            "Qualification": "PITI", 
+            "Short": "ACCWT",
+            "Image": "images/test.jpg",
+            "Description": `NSQF Level - 5<br><br>
+            Job Role - Welding Technician<br><br>
+            After completion of the course, the Trainees will be able
+            to do all kind of fabrication work using various welding
+            methods as well as can inspect the welding, identify the
+            defects & can make the remedies.<br><br>
+            Personality Development & Computer Literacy, Engg.
+            Calculation & Science, Engg. Drawing, Welding
+            Technology (Theory), Welding Techniques using
+            Various Weld Methods
+            `,
+            "Apply": "#"
+        },
+
+
     ];
 
     return course_informations;

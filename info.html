@@ -14,7 +14,6 @@
         <script>
             var ck = document.cookie;
             var data = ck.split(";")[0].split("=")[1];
-            alert(data);
             var info = getInformation();
             var ctr = 0;
             for(var i=0; i < info.length; i++){
@@ -27,7 +26,10 @@
                     desc = info[i]['Description'];
                     apply = info[i]['Apply'];
                     qulaify =  info[i]['Qualification'];
-                    if (qulaify == "X"){
+                    if (qulaify == "UM"){
+                        qulaify = "Under Matric";
+                    }
+                    else if (qulaify == "X"){
                         qulaify = "10th / Matriculation";
                     }
                     else if (qulaify == "XII"){
