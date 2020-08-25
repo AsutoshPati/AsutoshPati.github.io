@@ -226,7 +226,10 @@
                                     }
                                 }
                                 
-                                
+                                var length = select.options.length;
+                                if (length == 0){
+                                    alert("No courses found for this filter \nTry some other filters")
+                                }
                             }
                         </script>
                     </select>
