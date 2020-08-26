@@ -207,7 +207,7 @@
             </div>
             <div class="row" style="padding-top: 40px;">
                 <div class="col-sm-12 text-center">
-                    <a id="link_to_apply" href="#" class="enroll-btn">Enroll Here</a>
+                    <a id="link_to_enroll" href="#" class="enroll-btn">Enroll Here</a>
                 </div>
             </div>
         </div>
@@ -218,6 +218,10 @@
             document.getElementById("link_to_apply").href = apply;
             if (apply == ""){
                 document.getElementById("link_to_apply").innerHTML = "Can't Apply";
+            }
+            document.getElementById("link_to_enroll").href = apply;
+            if (apply == ""){
+                document.getElementById("link_to_enroll").innerHTML = "Can't Enroll";
             }
             document.getElementById("qual").innerHTML = qulaify;
             document.getElementById("select").innerHTML = selection;

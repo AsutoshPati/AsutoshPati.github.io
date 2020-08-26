@@ -144,20 +144,16 @@
 
             <div class="col-sm-12" style="text-align: center;">
                 <br><br>
-                <h5><label for="qualification">Highest Qualification</label></h5>
+                <h5><label for="qualification">Current Qualification</label></h5>
                 <select class="field" id="qualification" onchange="filterCourses()" required>
                     <option value="">Select Qualification</option>
                     <option value="UM">Under Matric</option>
                     <option value="X">10th / Matriculation</option>
                     <option value="XII">12th / Intermediate</option>
                     <option value="I">ITI</option>
-                    <option value="PI">Post ITI</option>
                     <option value="D">Diploma</option>
-                    <option value="PD">Post Diploma</option>
                     <option value="GT">Graduation (Techinal)</option>
                     <option value="GNT">Graduation (Non - Techinal)</option>
-                    <option value="PGT">Post Graduation (Techinal)</option>
-                    <option value="PGNT">Post Graduation (Non - Techinal)</option>
                 </select>
             </div>
 
@@ -183,6 +179,11 @@
                             var qualification = document.getElementById("qualification");
                             var duration = document.getElementById("term");
                             if (qualification.value == "" && duration.value == ""){
+                                alert("Please select Highest Qualification \nand Duration \nto filter courses")
+                                return ;
+                            }
+
+                            if (qualification.value == ""){
                                 alert("Please select Highest Qualification \nand Duration \nto filter courses")
                                 return ;
                             }

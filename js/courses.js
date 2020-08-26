@@ -166,7 +166,7 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "Selection will be based on merit list prepared to 40% mark of HSC + 60% of ITI mark",
             "Duration Type": "L", 
-            "Qualification": "PITI", 
+            "Qualification": "ITI", 
             "Short": "CCAM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 5<br><br>
@@ -190,7 +190,7 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "Selection will be based on merit list prepared to 40% mark of HSC + 60% of ITI mark",
             "Duration Type": "L", 
-            "Qualification": "PITI", 
+            "Qualification": "ITI", 
             "Short": "ACCMM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 5<br><br>
@@ -218,7 +218,7 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "Selection will be based on merit list prepared to 40% mark of HSC + 60% of ITI mark",
             "Duration Type": "L", 
-            "Qualification": "PITI", 
+            "Qualification": "ITI", 
             "Short": "ACCCM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 5<br><br>
@@ -244,7 +244,7 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PITI", 
+            "Qualification": "ITI", 
             "Short": "ACCWT",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 5<br><br>
@@ -267,7 +267,7 @@ function getInformation(){
             "Duration": "6 Months",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PITI", 
+            "Qualification": "ITI", 
             "Short": "CCM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 5<br><br>
@@ -287,7 +287,7 @@ function getInformation(){
             "Duration": "6 Months",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PITI", 
+            "Qualification": "ITI", 
             "Short": "CCFR",
             "Image": "images/test.jpg",
             "Description": `<b>Job Role</b> - Maintenance Technician & Rigger<br><br>
@@ -303,7 +303,7 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "PDTDM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -332,7 +332,7 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "PDCC",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -361,7 +361,7 @@ function getInformation(){
             "Duration": "6 months (8hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "MCCTD",
             "Image": "images/test.jpg",
             "Description": `<b>Job Role</b> - Tool & Die Maker<br><br>
@@ -389,7 +389,7 @@ function getInformation(){
             "Duration": "6 months",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "ADCNC",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -420,7 +420,7 @@ function getInformation(){
             "Duration": "1 year (8hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PGT", 
+            "Qualification": "GT", 
             "Short": "PGDTD",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 8<br><br>
@@ -449,7 +449,7 @@ function getInformation(){
             "Duration": "1 Year (3 Months in Training Dept. & 9 Months in Production Dept.)",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PGT", 
+            "Qualification": "GT", 
             "Short": "PGAM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 8<br><br>
@@ -478,7 +478,7 @@ function getInformation(){
             "Duration": "6 month (8hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PGT", 
+            "Qualification": "GT", 
             "Short": "MCC",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -505,7 +505,7 @@ function getInformation(){
             "Duration": "6 month (6hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "ADMMA",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -528,7 +528,7 @@ function getInformation(){
             "Duration": "6 month (6hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "AET",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -552,7 +552,7 @@ function getInformation(){
             "Duration": "6 month (6hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "CCERM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -578,7 +578,7 @@ function getInformation(){
             "Duration": "1 year (6hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PD", 
+            "Qualification": "D", 
             "Short": "PDIAR",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
@@ -616,7 +616,7 @@ function getInformation(){
             "Duration": "6 months (6hrs/Day)",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PGT", 
+            "Qualification": "GT", 
             "Short": "MCCAPC",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 7<br><br>
@@ -644,7 +644,7 @@ function getInformation(){
             "Duration": "6 months",
             "Selection": "First come first serve basis",
             "Duration Type": "M", 
-            "Qualification": "PGT", 
+            "Qualification": "GT", 
             "Short": "MCCM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 7<br><br>
@@ -679,11 +679,11 @@ function getInformation(){
             "Duration": "1 year",
             "Selection": "First come first serve basis",
             "Duration Type": "L", 
-            "Qualification": "PGT", 
+            "Qualification": "D", 
             "Short": "PDIM",
             "Image": "images/test.jpg",
             "Description": `<b>NSQF Level</b> - 6<br><br>
-            <b>Job Role</b> - Machatronics Engineer / Team Leader<br><br>
+            <b>Job Role</b> - Mechatronics Engineer / Team Leader<br><br>
             After completion of the course, the Trainees will be able to work in are of mechatronics.<br><br>
             <b>Course content</b> - 
             <ul>
@@ -716,6 +716,456 @@ function getInformation(){
                 <li>Use basic Health and safety practices at work place</li>
                 <li>Develop entrepreneurship skills</li>
                 <li>Demonstrate the intellectual independence by completing the project work in Mechatronics.</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=95"
+        },
+
+        {
+            "Name": "POST DIPLOMA IN STRUCTURAL DESIGN & PROJECT MANAGEMENT (PDSPM)", 
+            "Fee": "₹ 54,000", 
+            "Duration": "1 year",
+            "Selection": "First come first serve basis",
+            "Duration Type": "L", 
+            "Qualification": "D", 
+            "Short": "PDSPM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 7<br><br>
+            <b>Job Role</b> - Site Engineer / Site Supervisor / Project Assistant<br><br>
+            After completion of the course, trainees will able
+            to know different type of Structural design &
+            Analysis in Detail.<br><br>
+            <b>Course content</b> - 
+            Auto cad in civil, STAAD –Pro, 3Ds max, Revit
+            architecture, Adobe Photoshop, GPS, MS office,
+            Total station, Strength of material, Estimating&
+            costing, Engineering drawing, Soft Skill, DGPS,
+            Survey, Auto Level
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=93"
+        },
+
+        {
+            "Name": "ADVANCED DIPLOMA IN STRUCTURAL DESIGN & ANALYSIS (ADSDA)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 months",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "D", 
+            "Short": "ADSDA",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Site Engineer / Site Supervisor / Project Assistant<br><br>
+            After completion of the course, trainees will able
+            to know different type of Structural design &
+            Analysis.<br><br>
+            <b>Course content</b> - 
+            Auto CAD in Civil, STAAD –Pro, 3Ds Max, Revit
+            Architecture, Adobe Photoshop, Auto level, GPS,
+            MS office, Total station, Strength of material,
+            Estimating& costing, Engineering drawing, Soft
+            Skill
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=109"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN INSPECTION & QUALITY CONTROL (ACCIQ)", 
+            "Fee": "₹ 22,000", 
+            "Duration": "6 months",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "XII", 
+            "Short": "ACCIQ",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 5<br><br>
+            <b>Job Role</b> - Quality Control Inspector / Job Inspector<br><br>
+            During training, trainees will able to work on Quality
+            control & Inspection.<br><br>
+            <b>Course content</b> - 
+            Engineering Drawing, Engineering Metrology,
+            Workshop Calculation, Total Quality Management,
+            AutoCAD, Master CAM, NX (UNIGRAPHICS),
+            Inspection (CMM), Employability skill, Inspection &
+            Quality Control -On Job Training
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=105"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN INSPECTION & QUALITY CONTROL (ACCIQ)", 
+            "Fee": "₹ 22,000", 
+            "Duration": "6 months",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GT", 
+            "Short": "ACCIQ",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 5<br><br>
+            <b>Job Role</b> - Quality Control Inspector / Job Inspector<br><br>
+            During training, trainees will able to work on Quality
+            control & Inspection.<br><br>
+            <b>Course content</b> - 
+            Engineering Drawing, Engineering Metrology,
+            Workshop Calculation, Total Quality Management,
+            AutoCAD, Master CAM, NX (UNIGRAPHICS),
+            Inspection (CMM), Employability skill, Inspection &
+            Quality Control -On Job Training
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=105"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN INSPECTION & QUALITY CONTROL (ACCIQ)", 
+            "Fee": "₹ 22,000", 
+            "Duration": "6 months",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GNT", 
+            "Short": "ACCIQ",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 5<br><br>
+            <b>Job Role</b> - Quality Control Inspector / Job Inspector<br><br>
+            During training, trainees will able to work on Quality
+            control & Inspection.<br><br>
+            <b>Course content</b> - 
+            Engineering Drawing, Engineering Metrology,
+            Workshop Calculation, Total Quality Management,
+            AutoCAD, Master CAM, NX (UNIGRAPHICS),
+            Inspection (CMM), Employability skill, Inspection &
+            Quality Control -On Job Training
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=105"
+        },
+
+        {
+            "Name": "ADVANCED DIPLOMA IN COMPUTER HARDWARE NETWORKING & MANAGEMENT (ADCHNM)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 months (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GT", 
+            "Short": "ADCHNM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Hardware & Network Associates / System Service
+            Engineer<br><br>
+            After completion of the course, the trainees should be
+            confident enough to solve day – to –day computer
+            related problems.<br><br>
+            <b>Course content</b> - 
+            Power Supply, PC Architecture, Software Installation,
+            Up gradation & Maintenance, Network Essential, setup
+            & management, Network management & server
+            configuration, LINUX management & network
+            configuration, Basic Electronics, Office Package,
+            CommunicationSkill
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=108"
+        },
+
+        {
+            "Name": "ADVANCED DIPLOMA IN COMPUTER HARDWARE NETWORKING & MANAGEMENT (ADCHNM)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 months (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GNT", 
+            "Short": "ADCHNM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Hardware & Network Associates / System Service
+            Engineer<br><br>
+            After completion of the course, the trainees should be
+            confident enough to solve day – to –day computer
+            related problems.<br><br>
+            <b>Course content</b> - 
+            Power Supply, PC Architecture, Software Installation,
+            Up gradation & Maintenance, Network Essential, setup
+            & management, Network management & server
+            configuration, LINUX management & network
+            configuration, Basic Electronics, Office Package,
+            CommunicationSkill
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=108"
+        },
+
+        {
+            "Name": "ADVANCED DIPLOMA IN COMPUTER HARDWARE NETWORKING & MANAGEMENT (ADCHNM)", 
+            "Fee": "₹ 34,000", 
+            "Duration": "6 months (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "D", 
+            "Short": "ADCHNM",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - 6<br><br>
+            <b>Job Role</b> - Hardware & Network Associates / System Service
+            Engineer<br><br>
+            After completion of the course, the trainees should be
+            confident enough to solve day – to –day computer
+            related problems.<br><br>
+            <b>Course content</b> - 
+            Power Supply, PC Architecture, Software Installation,
+            Up gradation & Maintenance, Network Essential, setup
+            & management, Network management & server
+            configuration, LINUX management & network
+            configuration, Basic Electronics, Office Package,
+            CommunicationSkill
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=108"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN SOFTWARE APPLICATION (ACCSA)", 
+            "Fee": "₹ 22,000", 
+            "Duration": "6 months (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GT", 
+            "Short": "ACCSA",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - <br><br>
+            <b>Job Role</b> - An ability to identify, critically analyse, formulate
+            & develop Computer applications<br><br>
+            Prepare trainees who will be successful &
+            professional in industry, government, academic,
+            entrepreneurial pursuit & consulting firms &
+            apply knowledge of Computer Science<br><br>
+            <b>Course content</b> - 
+            C programming, C++, Core Java, Oracle, html,
+            CSS, Advance Java, Project Work
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=101"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN SOFTWARE APPLICATION (ACCSA)", 
+            "Fee": "₹ 22,000", 
+            "Duration": "6 months (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GNT", 
+            "Short": "ACCSA",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - <br><br>
+            <b>Job Role</b> - An ability to identify, critically analyse, formulate
+            & develop Computer applications<br><br>
+            Prepare trainees who will be successful &
+            professional in industry, government, academic,
+            entrepreneurial pursuit & consulting firms &
+            apply knowledge of Computer Science<br><br>
+            <b>Course content</b> - 
+            C programming, C++, Core Java, Oracle, html,
+            CSS, Advance Java, Project Work
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=101"
+        },
+
+        {
+            "Name": "ADVANCE CERTIFICATE COURSE IN SOFTWARE APPLICATION (ACCSA)", 
+            "Fee": "₹ 22,000", 
+            "Duration": "6 months (8hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "D", 
+            "Short": "ACCSA",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - <br><br>
+            <b>Job Role</b> - An ability to identify, critically analyse, formulate
+            & develop Computer applications<br><br>
+            Prepare trainees who will be successful &
+            professional in industry, government, academic,
+            entrepreneurial pursuit & consulting firms &
+            apply knowledge of Computer Science<br><br>
+            <b>Course content</b> - 
+            C programming, C++, Core Java, Oracle, html,
+            CSS, Advance Java, Project Work
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=101"
+        },
+
+        {
+            "Name": "AUTO CAD (MECHANICAL)", 
+            "Fee": "₹ 7,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "ACADMECH",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Creating Objects</li>
+                <li>Blocks, Attributes & X-ref</li>
+                <li>Editing Objects</li>
+                <li>Layout, Plotting & Printing</li>
+                <li>Layers, Colour & Linetype</li>
+                <li>3D Modelling</li>
+                <li>Dimensioning & Tolerancing</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=158"
+        },
+
+        {
+            "Name": "AUTO CAD (MECHANICAL)", 
+            "Fee": "₹ 7,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "ACADMECH",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Creating Objects</li>
+                <li>Blocks, Attributes & X-ref</li>
+                <li>Editing Objects</li>
+                <li>Layout, Plotting & Printing</li>
+                <li>Layers, Colour & Linetype</li>
+                <li>3D Modelling</li>
+                <li>Dimensioning & Tolerancing</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=158"
+        },
+
+        {
+            "Name": "MASTER CAM", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "MCAM",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>2D Drafting</li>
+                <li>Toolpath Generation</li>
+                <li>Wire Frame Modelling</li>
+                <li>Post Processing & DNC</li>
+                <li>Surface Modelling</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "MASTER CAM", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "MCAM",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>2D Drafting</li>
+                <li>Toolpath Generation</li>
+                <li>Wire Frame Modelling</li>
+                <li>Post Processing & DNC</li>
+                <li>Surface Modelling</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "NX / UNIGRAPHICS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "NX",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to Unigraphics</li>
+                <li>Concept of Sketch & Constraint</li>
+                <li>Drafting & Detailing</li>
+                <li>Part Modelling (Solid & Surface)</li>
+                <li>Assembly</li>
+                <li>UGManufacturing (Milling&Lathe)</li>
+                <li>Post Processing & DNC</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "NX / UNIGRAPHICS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "NX",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to Unigraphics</li>
+                <li>Concept of Sketch & Constraint</li>
+                <li>Drafting & Detailing</li>
+                <li>Part Modelling (Solid & Surface)</li>
+                <li>Assembly</li>
+                <li>UGManufacturing (Milling&Lathe)</li>
+                <li>Post Processing & DNC</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "CREO", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "CREO",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to Creo</li>
+                <li>Sketcher & Constraint</li>
+                <li>Part Modelling</li>
+                <li>Pro Surface</li>
+                <li>Assembly Modelling</li>
+                <li>Drafting & Detailing</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "CREO", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "CREO",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to Creo</li>
+                <li>Sketcher & Constraint</li>
+                <li>Part Modelling</li>
+                <li>Pro Surface</li>
+                <li>Assembly Modelling</li>
+                <li>Drafting & Detailing</li>
             </ul>
             `,
             "Apply": "#"
