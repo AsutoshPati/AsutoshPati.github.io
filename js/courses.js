@@ -1171,6 +1171,693 @@ function getInformation(){
             "Apply": "#"
         },
 
+        {
+            "Name": "CATIA", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "CATIA",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Sketcher & Constraint</li>
+                <li>Part Design</li>
+                <li>Wireframe & Surface Design</li>
+                <li>Assembly & Kinematics</li>
+                <li>Drafting & Detailing</li>
+                <li>CATIA CAM</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=159"
+        },
+
+        {
+            "Name": "CATIA", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "CATIA",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Sketcher & Constraint</li>
+                <li>Part Design</li>
+                <li>Wireframe & Surface Design</li>
+                <li>Assembly & Kinematics</li>
+                <li>Drafting & Detailing</li>
+                <li>CATIA CAM</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=159"
+        },
+
+        {
+            "Name": "HYPERMESH", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "HMESH",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to FEA & Hypermesh</li>
+                <li>Mesh Analysis</li>
+                <li>Pre- processing</li>
+                <li>Optistruct</li>
+                <li>2D Meshing, 3D Meshing</li>
+                <li>Introduction to Hyperform</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "HYPERMESH", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "HMESH",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to FEA & Hypermesh</li>
+                <li>Mesh Analysis</li>
+                <li>Pre- processing</li>
+                <li>Optistruct</li>
+                <li>2D Meshing, 3D Meshing</li>
+                <li>Introduction to Hyperform</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "SOLIDWORKS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "SLDWRK",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Sketcher & Constraint</li>
+                <li>Part Design</li>
+                <li>Wireframe & Surface Design</li>
+                <li>Assembly & Kinematics</li>
+                <li>Drafting & Detailing</li>
+                <li>Core & Cavity Extraction</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=160"
+        },
+
+        {
+            "Name": "SOLIDWORKS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 months (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "SLDWRK",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Sketcher & Constraint</li>
+                <li>Part Design</li>
+                <li>Wireframe & Surface Design</li>
+                <li>Assembly & Kinematics</li>
+                <li>Drafting & Detailing</li>
+                <li>Core & Cavity Extraction</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=160"
+        },
+
+        {
+            "Name": "ANSYS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "ANSYS",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to FEA & ANSYS</li>
+                <li>Structural Analysis (Linear, Non Linear, Dynamic)</li>
+                <li>Thermal Analysis (Steady State & Transient)</li>
+                <li>Couple Field Analysis</li>
+            </ul>
+            ** All the above content will be covered using latest APDL & Workbench version
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=161"
+        },
+
+        {
+            "Name": "ANSYS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "ANSYS",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to FEA & ANSYS</li>
+                <li>Structural Analysis (Linear, Non Linear, Dynamic)</li>
+                <li>Thermal Analysis (Steady State & Transient)</li>
+                <li>Couple Field Analysis</li>
+            </ul>
+            ** All the above content will be covered using latest APDL & Workbench version
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=161"
+        },
+
+        {
+            "Name": "3D Printing", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "3DPRNT",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Comparison of Subtractive & Additive Manufacturing</li>
+                <li>Classification of Additive Manufacturing</li>
+                <li>New Technologies Used in the field of Additive Manufacturing</li>
+                <li>Introduction to 3D Printing</li>
+                <li>Technology Used & Advantage over Subtractive Manufacturing</li>
+                <li>Demonstration of Ideamaker</li>
+                <li>Introduction to Idea 3D printer</li>
+                <li>Demonstration of 3D printing machine</li>
+                <li>Demonstration of metal 3D printing machine</li>
+                <li>Working Procedure & process chain</li>
+                <li>Post Processing procedures</li>
+                <li>Introduction to 3D scanning</li>
+                <li>Scan data creation and scanning methodology</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "3D Printing", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "3DPRNT",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Comparison of Subtractive & Additive Manufacturing</li>
+                <li>Classification of Additive Manufacturing</li>
+                <li>New Technologies Used in the field of Additive Manufacturing</li>
+                <li>Introduction to 3D Printing</li>
+                <li>Technology Used & Advantage over Subtractive Manufacturing</li>
+                <li>Demonstration of Ideamaker</li>
+                <li>Introduction to Idea 3D printer</li>
+                <li>Demonstration of 3D printing machine</li>
+                <li>Demonstration of metal 3D printing machine</li>
+                <li>Working Procedure & process chain</li>
+                <li>Post Processing procedures</li>
+                <li>Introduction to 3D scanning</li>
+                <li>Scan data creation and scanning methodology</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "VLSI", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "VLSI",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction of VLSI</li>
+                <li>Semiconductor Physics</li>
+                <li>Analog/ Digital Electronics, EDA Tools</li>
+                <li>CMOS & layout design using MICROWIND</li>
+                <li>VHDL & Verilog HDL programming & simulation using XILINX & ALTERA QUARTUS</li>
+                <li>Interfacing of PLDs (SPARTAN, VIRETEX, CYCLONE)</li>
+                <li>Analog circuit design and verification through FPAA using ANADIGM</li>
+                <li>Basics of Microcontroller</li>
+                <li>Project Work</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "VLSI", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "VLSI",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction of VLSI</li>
+                <li>Semiconductor Physics</li>
+                <li>Analog/ Digital Electronics, EDA Tools</li>
+                <li>CMOS & layout design using MICROWIND</li>
+                <li>VHDL & Verilog HDL programming & simulation using XILINX & ALTERA QUARTUS</li>
+                <li>Interfacing of PLDs (SPARTAN, VIRETEX, CYCLONE)</li>
+                <li>Analog circuit design and verification through FPAA using ANADIGM</li>
+                <li>Basics of Microcontroller</li>
+                <li>Project Work</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "PLC", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "PLC",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Instrumentation in process industry</li>
+                <li>Introduction of SCAD</li>
+                <li>One line diagram & wiring guidelines</li>
+                <li>PLC Hardware Components</li>
+                <li>Power supply CPU</li>
+                <li>I/O Communications</li>
+                <li>Pneumatic and electro pneumatics</li>
+                <li>Counter file handling</li>
+                <li>SCADA Applications</li>
+                <li>Application of Electrical Drivers</li>
+                <li>PLC software timers</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=162"
+        },
+
+        {
+            "Name": "PLC", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "PLC",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Instrumentation in process industry</li>
+                <li>Introduction of SCAD</li>
+                <li>One line diagram & wiring guidelines</li>
+                <li>PLC Hardware Components</li>
+                <li>Power supply CPU</li>
+                <li>I/O Communications</li>
+                <li>Pneumatic and electro pneumatics</li>
+                <li>Counter file handling</li>
+                <li>SCADA Applications</li>
+                <li>Application of Electrical Drivers</li>
+                <li>PLC software timers</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=162"
+        },
+
+        {
+            "Name": "ADVANCED EMBEDDED SYSTEM", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "AES",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to Embedded Systems</li>
+                <li>Assembly & Embedded 'C' Programming</li>
+                <li>Addressing of 8051</li>
+                <li>P1C18 & ARM 7 using RIDE</li>
+                <li>PROTEUS, MPLAB, KEIL & Crosswire</li>
+                <li>VHDL Programming</li>
+                <li>Interfacing of peripheral devices with 8051, p1C18 & ARM 7</li>
+                <li>PCB desgining robotics</li>
+                <li>Project Work</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=164"
+        },
+
+        {
+            "Name": "ADVANCED EMBEDDED SYSTEM", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "AES",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to Embedded Systems</li>
+                <li>Assembly & Embedded 'C' Programming</li>
+                <li>Addressing of 8051</li>
+                <li>P1C18 & ARM 7 using RIDE</li>
+                <li>PROTEUS, MPLAB, KEIL & Crosswire</li>
+                <li>VHDL Programming</li>
+                <li>Interfacing of peripheral devices with 8051, p1C18 & ARM 7</li>
+                <li>PCB desgining robotics</li>
+                <li>Project Work</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=164"
+        },
+
+        {
+            "Name": "HYDRAULICS & PNEUMATICS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "HNP",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Symbols of Values & Method of Actuation</li>
+                <li>Signal Processing Elements</li>
+                <li>Pressure Regulators</li>
+                <li>Pressure sequence value</li>
+                <li>Time depend control value</li>
+                <li>Exercises on pneumatic values & regulators</li>
+                <li>Electro pneumatics and hydraulics</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "HYDRAULICS & PNEUMATICS", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "HNP",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Symbols of Values & Method of Actuation</li>
+                <li>Signal Processing Elements</li>
+                <li>Pressure Regulators</li>
+                <li>Pressure sequence value</li>
+                <li>Time depend control value</li>
+                <li>Exercises on pneumatic values & regulators</li>
+                <li>Electro pneumatics and hydraulics</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "SURYAMITRA", 
+            "Fee": "₹ 12,000", 
+            "Duration": "3 months (300hrs)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "D", 
+            "Short": "SMTRA",
+            "Image": "images/test.jpg",
+            "Description": `<b>NSQF Level</b> - <br><br>
+            <b>Job Role</b> - Skilled Technician<br><br>
+            After completion of the course, the Trainees will be able
+            to install &maintain a stand-alone or grid connected
+            photo voltaic power system.<br><br>
+            <b>Course content</b> - 
+            Basic Electricals, Semiconductor Physics, Soldering
+            Technique, Basic Terminology of Solar System, Fundamental of Solar PVcell & Panel,
+            Entrepreneurship, Soft Skill, Troubleshooting of Solar
+            PV System
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "SURYAMITRA", 
+            "Fee": "₹ 12,000", 
+            "Duration": "3 months (300hrs)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "M", 
+            "Qualification": "GT", 
+            "Short": "SMTRA",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>NSQF Level</b> - <br><br>
+            <b>Job Role</b> - Skilled Technician<br><br>
+            After completion of the course, the Trainees will be able
+            to install &maintain a stand-alone or grid connected
+            photo voltaic power system.<br><br>
+            <b>Course content</b> - 
+            Basic Electricals, Semiconductor Physics, Soldering
+            Technique, Basic Terminology of Solar System, Fundamental of Solar PVcell & Panel,
+            Entrepreneurship, Soft Skill, Troubleshooting of Solar
+            PV System
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "AUTO CAD (CIVIL)", 
+            "Fee": "₹ 7,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "ACADCIVIL",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Basic concept of Drawing</li>
+                <li>Auto CAD 2D & 3D Building</li>
+                <li>Inertial Design</li>
+                <li>Working Drawing</li>
+                <li>Steel Structure Detailed Drawing</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=165"
+        },
+
+        {
+            "Name": "AUTO CAD (CIVIL)", 
+            "Fee": "₹ 7,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "ACADCIVIL",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Basic concept of Drawing</li>
+                <li>Auto CAD 2D & 3D Building</li>
+                <li>Inertial Design</li>
+                <li>Working Drawing</li>
+                <li>Steel Structure Detailed Drawing</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=165"
+        },
+
+        {
+            "Name": "STAAD PRO", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "STADD",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Basic concept of 2D & 3D in Auto CAD</li>
+                <li>Creating Geometry using different methods in X, Y, Z co-ordinates</li>
+                <li>Defining beams, columns and plates</li>
+                <li>Support and properties system</li>
+                <li>Different steel and load systems</li>
+                <li>Analysis with concrete and steel</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=166"
+        },
+
+        {
+            "Name": "STAAD PRO", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "STADD",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Basic concept of 2D & 3D in Auto CAD</li>
+                <li>Creating Geometry using different methods in X, Y, Z co-ordinates</li>
+                <li>Defining beams, columns and plates</li>
+                <li>Support and properties system</li>
+                <li>Different steel and load systems</li>
+                <li>Analysis with concrete and steel</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=166"
+        },
+
+        {
+            "Name": "3Ds Max", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "3DMAX",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to 3Ds Max</li>
+                <li>Plan Conversion from Auto CAD</li>
+                <li>Usage of Standard Primitives, Compound Object, Shapes</li>
+                <li>Copy, Move, Rotate & other Standard Modification tools</li>
+                <li>Creation of Door, Window, Stair, Railing, AEC Wall, Foilage</li>
+                <li>Material library, control panel</li>
+                <li>Interior design techniques</li>
+                <li>Types of camera & light, rendering & exporting</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=167"
+        },
+
+        {
+            "Name": "3Ds Max", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "3DMAX",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to 3Ds Max</li>
+                <li>Plan Conversion from Auto CAD</li>
+                <li>Usage of Standard Primitives, Compound Object, Shapes</li>
+                <li>Copy, Move, Rotate & other Standard Modification tools</li>
+                <li>Creation of Door, Window, Stair, Railing, AEC Wall, Foilage</li>
+                <li>Material library, control panel</li>
+                <li>Interior design techniques</li>
+                <li>Types of camera & light, rendering & exporting</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=167"
+        },
+
+        {
+            "Name": "REVIT", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "D", 
+            "Short": "REVIT",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to REVIT</li>
+                <li>Set up of Units & Element Properties</li>
+                <li>Annotating Presentation Tools</li>
+                <li>Architectural Modelling</li>
+                <li>Rendering & Lighting</li>
+                <li>Editing Tools & Managing Views</li>
+                <li>Printing, Export/ Import</li>
+                <li>Circulation Elements</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=210"
+        },
+
+        {
+            "Name": "REVIT", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "REVIT",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to REVIT</li>
+                <li>Set up of Units & Element Properties</li>
+                <li>Annotating Presentation Tools</li>
+                <li>Architectural Modelling</li>
+                <li>Rendering & Lighting</li>
+                <li>Editing Tools & Managing Views</li>
+                <li>Printing, Export/ Import</li>
+                <li>Circulation Elements</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=210"
+        },
+
     ];
 
     return course_informations;

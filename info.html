@@ -219,9 +219,15 @@
             if (apply == ""){
                 document.getElementById("link_to_apply").innerHTML = "Can't Apply";
             }
+            else if (apply == "#"){
+                document.getElementById("link_to_apply").innerHTML = "Not available";
+            }
             document.getElementById("link_to_enroll").href = apply;
             if (apply == ""){
                 document.getElementById("link_to_enroll").innerHTML = "Can't Enroll";
+            }
+            else if (apply == "#"){
+                document.getElementById("link_to_enroll").innerHTML = "Not availabel";
             }
             document.getElementById("qual").innerHTML = qulaify;
             document.getElementById("select").innerHTML = selection;
