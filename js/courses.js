@@ -1858,6 +1858,189 @@ function getInformation(){
             "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=210"
         },
 
+        {
+            "Name": "MAT LAB (Elect.)", 
+            "Fee": "₹ 8,000", 
+            "Duration": "15 days (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "MATLABE",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Parallel Computing</li>
+                <li>Math, Statics & Optimization</li>
+                <li>Control System Design & Analysis</li>
+                <li>Signal Processing & Communications</li>
+                <li>Test & Measurement</li>
+                <li>Code Generation & Verification</li>
+                <li>Application Development</li>
+                <li>Database Connectivity & Reporting</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=171"
+        },
+
+        {
+            "Name": "INTERNET OF THINGS (IOT)", 
+            "Fee": "₹ 8,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "IOT",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to IOT</li>
+                <li>Physical & Logical Design of IOT</li>
+                <li>IOT Enabling Technologies</li>
+                <li>IOT Levels & Deployment Template</li>
+                <li>Domain Specific IOTs</li>
+                <li>M2M Communication</li>
+                <li>IOT System Management</li>
+                <li>Platform Design Methodology</li>
+                <li>Cloud Computing</li>
+                <li>Data Analytics of IOT</li>
+                <li>Python</li>
+                <li>Hands on with Arduino, Raspberry Pi, Intel Edison</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "CORE JAVA", 
+            "Fee": "₹ 5,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "CJAVA",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Object oriented programming concepts</li>
+                <li>Input & Output in JAVA</li>
+                <li>Polymorphism</li>
+                <li>Interface in JAVA</li>
+                <li>Exception Handling</li>
+                <li>SWING, Networking in JAVA</li>
+                <li>JAVA Database Connectivity</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=219"
+        },
+
+        {
+            "Name": "Advance JAVA", 
+            "Fee": "₹ 5,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "AJAVA",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>JAVA Database Connectivity</li>
+                <li>JAVA Server Pages (JSP)</li>
+                <li>JAVA Standard Tag Library (JSTL)</li>
+                <li>JAVA Transaction Service (JTS)</li>
+                <li>JAVA Transaction API (JTA)</li>
+                <li>JAVA MAIL, API, HTML, XML</li>
+                <li>JAVA Script</li>
+                <li>Mini – Projects Based on MVC Architecture</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=219"
+        },
+
+        {
+            "Name": ".NET", 
+            "Fee": "₹ 5,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "DOTNET",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>C#.NET & VB.NET</li>
+                <li>ASP</li>
+                <li>XML & Web Services</li>
+                <li>ADO.NET 2.0 using C#.NET/ VB.NET</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "PROGRAMMING IN ‘C’", 
+            "Fee": "₹ 3,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "CLANG",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>C Tokens</li>
+                <li>Control Statements</li>
+                <li>Array</li>
+                <li>Pointer</li>
+                <li>String</li>
+                <li>Pre Processor</li>
+                <li>Function</li>
+                <li>Structure & Union</li>
+                <li>Dynamic Memory Management</li>
+                <li>File</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=220"
+        },
+
+        {
+            "Name": "PROGRAMMING IN ‘C++’", 
+            "Fee": "₹ 3,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "CPP",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Basic Syntax</li>
+                <li>Control Statements</li>
+                <li>Array</li>
+                <li>Pointer</li>
+                <li>String</li>
+                <li>Function</li>
+                <li>Class & Objective</li>
+                <li>Friend Function</li>
+                <li>Constructor & Destructor</li>
+                <li>Inheritance</li>
+                <li>Virtual Function</li>
+                <li>Name Space</li>
+                <li>Exception Handling</li>
+                <li>Template</li>
+                <li>File</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
     ];
 
     return course_informations;
