@@ -1098,7 +1098,7 @@ function getInformation(){
                 <li>Post Processing & DNC</li>
             </ul>
             `,
-            "Apply": "#"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=234"
         },
 
         {
@@ -1122,7 +1122,7 @@ function getInformation(){
                 <li>Post Processing & DNC</li>
             </ul>
             `,
-            "Apply": "#"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=234"
         },
 
         {
@@ -1145,7 +1145,7 @@ function getInformation(){
                 <li>Drafting & Detailing</li>
             </ul>
             `,
-            "Apply": "#"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=233"
         },
 
         {
@@ -1168,7 +1168,7 @@ function getInformation(){
                 <li>Drafting & Detailing</li>
             </ul>
             `,
-            "Apply": "#"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=233"
         },
 
         {
@@ -1594,7 +1594,7 @@ function getInformation(){
                 <li>Electro pneumatics and hydraulics</li>
             </ul>
             `,
-            "Apply": "#"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=221"
         },
 
         {
@@ -1618,7 +1618,7 @@ function getInformation(){
                 <li>Electro pneumatics and hydraulics</li>
             </ul>
             `,
-            "Apply": "#"
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=221"
         },
 
         {
@@ -2036,6 +2036,109 @@ function getInformation(){
                 <li>Exception Handling</li>
                 <li>Template</li>
                 <li>File</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "HARDWARE & NETWORKING", 
+            "Fee": "₹ 5,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "HNN",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Computer Fundamentals & MS DOS</li>
+                <li>Computer Architecture</li>
+                <li>Network Fundamentals</li>
+                <li>System Management & Troubleshooting</li>
+            </ul>
+            `,
+            "Apply": "https://cttc.mfgelearning.com/about-courses.php?id=230"
+        },
+
+        {
+            "Name": "ENTREPRENEURSHIP DEVELOPMENT PROGRAMME", 
+            "Fee": "₹ 3,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "EDP",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Entrepreneurial Persons</li>
+                <li>Computer Architecture</li>
+                <li>Entrepreneurial Communities</li>
+                <li>Entrepreneurial Process</li>
+                <li>What Does Entrepreneur Do?</li>
+                <li>Entrepreneurship & Environment</li>
+                <li>Business Terms</li>
+                <li>Case Study on Business Secrets</li>
+                <li>Steps in Planning New Facilities</li>
+                <li>Selection of an appropriate form of Ownership Structure</li>
+                <li>Search for Location</li>
+                <li>Market Research</li>
+                <li>Marketing Survey</li>
+                <li>Barriers in Business</li>
+                <li>Problem Solving Techniques</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "LAPTOP MAINTENANCE", 
+            "Fee": "₹ 4,500", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "LM",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Analog Electronics</li>
+                <li>Type of Power Supply</li>
+                <li>Identification of different parts of Laptop</li>
+                <li>Block Diagram of Laptop & its Function</li>
+                <li>Laptop Assembling & Disassembling</li>
+                <li>Installation of Operating System Application & Software's fault
+                finding procedure of Laptop</li>
+                <li>Common problem of different motherboard & its troubleshooting</li>
+            </ul>
+            `,
+            "Apply": "#"
+        },
+
+        {
+            "Name": "COMMUNICATION SKILL", 
+            "Fee": "₹ 3,000", 
+            "Duration": "1 month (3hrs/Day)",
+            "Selection": "First come first serve basis",
+            "Duration Type": "S", 
+            "Qualification": "GT", 
+            "Short": "COMMSKL",
+            "Image": "images/test.jpg",
+            "Description": `
+            <b>Course content</b> - 
+            <ul>
+                <li>Introduction to the World of Soft Skill</li>
+                <li>Identifying self Personality</li>
+                <li>Self Assessment Model Tests</li>
+                <li>Presentation & Public Speaking</li>
+                <li>Multiple Intelligence Check</li>
+                <li>Group Discussion</li>
+                <li>HR Interview Techniques</li>
+                <li>Thematic Apperception Test</li>
             </ul>
             `,
             "Apply": "#"
